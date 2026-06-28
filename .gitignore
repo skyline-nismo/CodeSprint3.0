@@ -1,0 +1,15 @@
+# VS Code settings
+.vscode/
+
+# C++ compiled output (Windows)
+*.exe
+*.obj
+
+# Common build/output folders
+build/
+bin/
+Debug/
+Release/
+
+# Windows system files (safe to ignore)
+Thumbs.db
