@@ -1,9 +1,14 @@
 # VS Code settings
 .vscode/
 
-# C++ compiled output (Windows)
+# C++ compiled output
 *.exe
 *.obj
+*.o
+*.out
+*.a
+*.so
+*.dylib
 
 # Common build/output folders
 build/
@@ -11,5 +16,10 @@ bin/
 Debug/
 Release/
 
-# Windows system files (safe to ignore)
+# OS files
 Thumbs.db
+.DS_Store
+*~
+
+# Compiled output next to source (g++ default)
+solution

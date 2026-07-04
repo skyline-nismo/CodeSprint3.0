@@ -1,0 +1,12 @@
+# Normalize line endings to LF on commit
+* text=auto
+
+# Force LF for source and docs
+*.cpp text eol=lf
+*.md  text eol=lf
+*.txt text eol=lf
+
+# Treat binaries as binary
+*.exe binary
+*.o   binary
+*.out binary
