@@ -1,6 +1,6 @@
 # CodeSprint 3.0
 
-A collection of my **C++ solutions** for **CodeSprint 3.0**, a **45-day competitive programming challenge** organized by **[USC KIIT](https://www.usckiit.com/)**.
+A collection of my **C++ solutions** for **CodeSprint 3.0**, a **45-day data structure and algorithms challenge** organized by **[USC KIIT](https://www.usckiit.com/)**.
 
 This repository documents my journey through the challenge, containing **90 solutions** (2 problems per day) that cover a broad range of **Data Structures and Algorithms (DSA)** concepts.
 
