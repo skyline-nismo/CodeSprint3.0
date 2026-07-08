@@ -14,8 +14,11 @@ This repository documents my journey through the challenge, containing **90 solu
 
 ```text
 Day_XX/
-├── Q1.cpp   # Solution to Problem 1 (includes the problem statement)
-└── Q2.cpp   # Solution to Problem 2
+├── Q1.cpp      # C++17 solution for Problem 1
+├── Q1.md       # Problem 1 statement
+├── Q2.cpp      # C++17 solution for Problem 1
+├── Q1.md       # Problem 1 statement
+└── README.md   # Day XX Overview
 ```
 
 | Challenge | Problems | Language |
@@ -54,7 +57,7 @@ Each solution is a standalone **C++17** program.
 ### Compile
 
 ```bash
-g++ -std=c++17 -O2 Day_01/Q1.cpp -o solution
+g++ -std=c++17 -O2 Day_01/Q1.cpp -o Q1
 ```
 
 ### Run
@@ -62,13 +65,13 @@ g++ -std=c++17 -O2 Day_01/Q1.cpp -o solution
 **Linux / macOS**
 
 ```bash
-./solution
+./Q1
 ```
 
 **Windows**
 
 ```cmd
-solution.exe
+Q1.exe
 ```
 
 ---
