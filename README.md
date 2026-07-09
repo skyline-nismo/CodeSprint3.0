@@ -16,8 +16,8 @@ This repository documents my journey through the challenge, containing **90 solu
 Day_XX/
 ├── Q1.cpp      # C++17 solution for Problem 1
 ├── Q1.md       # Problem 1 statement
-├── Q2.cpp      # C++17 solution for Problem 1
-├── Q1.md       # Problem 1 statement
+├── Q2.cpp      # C++17 solution for Problem 2
+├── Q1.md       # Problem 2 statement
 └── README.md   # Day XX Overview
 ```
 
