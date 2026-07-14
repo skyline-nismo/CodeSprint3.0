@@ -2,7 +2,7 @@
 
 Welcome to **Day 04** of my **CodeSprint 3.0** journey!
 
-**CodeSprint 3.0** is my daily competitive programming challenge where I solve carefully selected problems to strengthen my problem-solving skills, algorithmic thinking, and proficiency in **C++17**.
+**CodeSprint 3.0** is my daily dsa challenge where I solve carefully selected problems to strengthen my problem-solving skills, algorithmic thinking, and proficiency in **C++17**.
 
 This directory contains the **problem statements** and **C++17 solutions** for the two problems assigned on Day 04.
 

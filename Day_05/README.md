@@ -14,7 +14,7 @@ Strengthening **Data Structures & Algorithms**, **Problem Solving**, and **C++17
 
 Welcome to **Day 05** of my **CodeSprint 3.0** journey!
 
-This directory contains the **problem statements** and **C++17 solutions** for today's two carefully selected problems. Each solution is written with a focus on clean code, readability, and competitive programming best practices.
+This directory contains the **problem statements** and **C++17 solutions** for today's two carefully selected problems. Each solution is written with a focus on clean code, readability, and dsa best practices.
 
 ---
 
