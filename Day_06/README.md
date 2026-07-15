@@ -1,4 +1,4 @@
-# 📅 Day 05 — CodeSprint 3.0
+# 📅 Day 06 — CodeSprint 3.0
 
 <div align="center">
 
@@ -12,31 +12,31 @@ Strengthening **Data Structures & Algorithms**, **Problem Solving**, and **C++17
 
 ## 📖 Overview
 
-Welcome to **Day 05** of my **CodeSprint 3.0** journey!
+Welcome to **Day 06** of my **CodeSprint 3.0** journey!
 
-This directory contains the **problem statements** and **C++17 solutions** for today's two carefully selected problems. Each solution is written with a focus on clean code, readability, and dsa best practices.
+This directory contains the **problem statements** and **C++17 solutions** for today's two carefully selected problems. Each solution is written with a focus on clean code, readability, and DSA best practices.
 
 ---
 
 ## 📂 Directory Structure
 
 ```text
-Day_05/
+Day_06/
 ├── Q1.cpp      # C++17 Solution
 ├── Q1.md       # Problem Statement
 ├── Q2.cpp      # C++17 Solution
 ├── Q2.md       # Problem Statement
-└── README.md   # Day 05 Overview
+└── README.md   # Day 06 Overview
 ```
 
 ---
 
 ## 📚 Problems
 
-|  #  | Problem                                  |    Statement   |     Solution     | Topic              | Technique             |    Time   |   Space   | Difficulty |
-| :-: | ---------------------------------------- | :------------: | :--------------: | ------------------ | --------------------- | :-------: | :-------: | :--------: |
-|  1  | 📚 **Sneha and the Gossip-Free Library** | [Q1.md](Q1.md) | [Q1.cpp](Q1.cpp) | Matrix, 2D Array   | Matrix Traversal      | **O(N²)** | **O(N²)** |   🟢 Easy  |
-|  2  | 🎓 **Harsh and the Attendance Tracker**  | [Q2.md](Q2.md) | [Q2.cpp](Q2.cpp) | Prefix Sum, Arrays | Traversal, Simulation |  **O(N)** |  **O(1)** |   🟢 Easy  |
+|  #  | Problem                                   |    Statement   |     Solution     | Topic             | Technique                       |    Time   |   Space  | Difficulty |
+| :-: | ----------------------------------------- | :------------: | :--------------: | ----------------- | ------------------------------- | :-------: | :------: | :--------: |
+|  1  | 🔐 **Saptak’s Password Strength Checker** | [Q1.md](Q1.md) | [Q1.cpp](Q1.cpp) | Strings           | Traversal, Character Validation |  **O(N)** | **O(1)** |   🟢 Easy  |
+|  2  | ⚡ **Prateek’s Diagonal Energy Grid**      | [Q2.md](Q2.md) | [Q2.cpp](Q2.cpp) | Matrix, Diagonals | Traversal, Summation            | **O(N²)** | **O(1)** |   🟢 Easy  |
 
 > **Source:** CodeSprint 3.0 Problem Set
 
@@ -91,8 +91,8 @@ Each problem includes:
 | ✅ [Day 02](../Day_02/) |   Completed   | ✅ [Day 17](../Day_17/) | Completed | ✅ [Day 32](../Day_32/) | Completed |
 | ✅ [Day 03](../Day_03/) |   Completed   | ✅ [Day 18](../Day_18/) | Completed | ✅ [Day 33](../Day_33/) | Completed |
 | ✅ [Day 04](../Day_04/) |   Completed   | ✅ [Day 19](../Day_19/) | Completed | ✅ [Day 34](../Day_34/) | Completed |
-|      ✅ **Day 05**      | **Current** ⭐ | ✅ [Day 20](../Day_20/) | Completed | ✅ [Day 35](../Day_35/) | Completed |
-| ✅ [Day 06](../Day_06/) |   Completed   | ✅ [Day 21](../Day_21/) | Completed | ✅ [Day 36](../Day_36/) | Completed |
+| ✅ [Day 05](../Day_05/) |   Completed   | ✅ [Day 20](../Day_20/) | Completed | ✅ [Day 35](../Day_35/) | Completed |
+|      ✅ **Day 06**      | **Current** ⭐ | ✅ [Day 21](../Day_21/) | Completed | ✅ [Day 36](../Day_36/) | Completed |
 | ✅ [Day 07](../Day_07/) |   Completed   | ✅ [Day 22](../Day_22/) | Completed | ✅ [Day 37](../Day_37/) | Completed |
 | ✅ [Day 08](../Day_08/) |   Completed   | ✅ [Day 23](../Day_23/) | Completed | ✅ [Day 38](../Day_38/) | Completed |
 | ✅ [Day 09](../Day_09/) |   Completed   | ✅ [Day 24](../Day_24/) | Completed | ✅ [Day 39](../Day_39/) | Completed |
@@ -119,7 +119,7 @@ Each problem includes:
 
 |        Previous        |       Repository      |          Next          |
 | :--------------------: | :-------------------: | :--------------------: |
-| ← [Day 04](../Day_04/) | 🏠 **CodeSprint 3.0** | [Day 06](../Day_06/) → |
+| ← [Day 05](../Day_05/) | 🏠 **CodeSprint 3.0** | [Day 07](../Day_07/) → |
 
 ---
 
