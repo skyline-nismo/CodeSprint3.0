@@ -1,0 +1,99 @@
+# 🌡️ Anish and the Temperature Logs
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Difficulty-Medium-f0ad4e" />
+  <img src="https://img.shields.io/badge/Topic-Sparse%20Table-blue" />
+  <img src="https://img.shields.io/badge/Topic-Range%20Maximum%20Query-blue" />
+  <img src="https://img.shields.io/badge/Technique-Range%20Query-orange" />
+</p>
+
+---
+
+## 📖 Problem Statement
+
+Anish is working on a weather monitoring system for his college research project.
+
+Every day, temperature readings are recorded and stored in an array. To analyze weather fluctuations, Anish frequently receives queries asking for a specific range of days.
+
+For each query **[L, R]**, he wants to find:
+
+**Highest Temperature − Lowest Temperature**
+
+within that range.
+
+Since the number of queries can be very large, your solution should answer each query efficiently.
+
+Help Anish process all the queries.
+
+---
+
+## 📥 Input Format
+
+* The first line contains an integer **N** — the number of temperature readings.
+* The second line contains **N** space-separated integers representing the temperatures.
+* The third line contains an integer **Q** — the number of queries.
+* The next **Q** lines each contain two integers **L** and **R**, representing a query range (**0-indexed**).
+
+---
+
+## 📤 Output Format
+
+* For each query, print the **maximum temperature in the range − minimum temperature in the range** on a new line.
+
+---
+
+## 💡 Example
+
+### Input
+
+```text
+8
+15 20 10 25 18 30 12 22
+3
+1 4
+2 6
+0 7
+```
+
+### Output
+
+```text
+15
+20
+20
+```
+
+---
+
+## 📌 Constraints
+
+| Constraint                     | Value                           |
+| ------------------------------ | ------------------------------- |
+| Number of temperature readings | `1 ≤ N ≤ 100`                   |
+| Temperature value              | `-10^9 ≤ temperature[i] ≤ 10^9` |
+| Number of queries              | `1 ≤ Q ≤ 10^5`                  |
+| Query range                    | `0 ≤ L ≤ R < N`                 |
+
+---
+
+## 💭 Hints
+
+<details>
+<summary><strong>Hint 1</strong></summary>
+
+You need to answer many range queries on a static array (no updates).
+
+</details>
+
+<details>
+<summary><strong>Hint 2</strong></summary>
+
+If you can quickly find both the minimum and maximum value in any range, the answer becomes:
+
+**Maximum − Minimum**
+
+</details>
+
+---
+
+> **Tags:** `Sparse Table` `Range Maximum Query` `Range Minimum Query` `Static Range Queries`
